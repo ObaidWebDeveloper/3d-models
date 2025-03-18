@@ -1,6 +1,6 @@
 # Blender v2.79 (sub 0) OBJ File: ''
 # www.blender.org
-mtllib untitled.mtl
+mtllib test.mtl
 o Cylinder
 v 0.000000 -2.221499 -2.620764
 v 0.000000 3.020030 -2.620764
